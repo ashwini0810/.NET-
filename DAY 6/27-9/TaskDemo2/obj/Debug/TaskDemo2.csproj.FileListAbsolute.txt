@@ -1,0 +1,7 @@
+D:\fidility19_09\TaskDemo2\bin\Debug\TaskDemo2.exe.config
+D:\fidility19_09\TaskDemo2\bin\Debug\TaskDemo2.exe
+D:\fidility19_09\TaskDemo2\bin\Debug\TaskDemo2.pdb
+D:\fidility19_09\TaskDemo2\obj\Debug\TaskDemo2.csproj.AssemblyReference.cache
+D:\fidility19_09\TaskDemo2\obj\Debug\TaskDemo2.csproj.CoreCompileInputs.cache
+D:\fidility19_09\TaskDemo2\obj\Debug\TaskDemo2.exe
+D:\fidility19_09\TaskDemo2\obj\Debug\TaskDemo2.pdb

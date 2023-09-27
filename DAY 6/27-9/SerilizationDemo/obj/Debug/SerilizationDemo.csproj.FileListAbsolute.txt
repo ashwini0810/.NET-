@@ -1,0 +1,10 @@
+D:\fidility19_09\SerilizationDemo\bin\Debug\SerilizationDemo.exe.config
+D:\fidility19_09\SerilizationDemo\bin\Debug\SerilizationDemo.exe
+D:\fidility19_09\SerilizationDemo\bin\Debug\SerilizationDemo.pdb
+D:\fidility19_09\SerilizationDemo\bin\Debug\Newtonsoft.Json.dll
+D:\fidility19_09\SerilizationDemo\bin\Debug\Newtonsoft.Json.xml
+D:\fidility19_09\SerilizationDemo\obj\Debug\SerilizationDemo.csproj.AssemblyReference.cache
+D:\fidility19_09\SerilizationDemo\obj\Debug\SerilizationDemo.csproj.CoreCompileInputs.cache
+D:\fidility19_09\SerilizationDemo\obj\Debug\SerilizationDemo.csproj.CopyComplete
+D:\fidility19_09\SerilizationDemo\obj\Debug\SerilizationDemo.exe
+D:\fidility19_09\SerilizationDemo\obj\Debug\SerilizationDemo.pdb

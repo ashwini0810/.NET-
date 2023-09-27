@@ -1,0 +1,6 @@
+D:\fidility19_09\SubjectLib\bin\Debug\SubjectLib.dll
+D:\fidility19_09\SubjectLib\bin\Debug\SubjectLib.pdb
+D:\fidility19_09\SubjectLib\obj\Debug\SubjectLib.csproj.AssemblyReference.cache
+D:\fidility19_09\SubjectLib\obj\Debug\SubjectLib.csproj.CoreCompileInputs.cache
+D:\fidility19_09\SubjectLib\obj\Debug\SubjectLib.dll
+D:\fidility19_09\SubjectLib\obj\Debug\SubjectLib.pdb

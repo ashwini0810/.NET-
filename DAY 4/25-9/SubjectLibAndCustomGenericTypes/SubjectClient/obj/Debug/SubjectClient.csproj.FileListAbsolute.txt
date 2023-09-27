@@ -1,0 +1,10 @@
+D:\fidility19_09\SubjectClient\bin\Debug\SubjectClient.exe.config
+D:\fidility19_09\SubjectClient\bin\Debug\SubjectClient.exe
+D:\fidility19_09\SubjectClient\bin\Debug\SubjectClient.pdb
+D:\fidility19_09\SubjectClient\obj\Debug\SubjectClient.csproj.AssemblyReference.cache
+D:\fidility19_09\SubjectClient\obj\Debug\SubjectClient.csproj.CoreCompileInputs.cache
+D:\fidility19_09\SubjectClient\obj\Debug\SubjectClient.exe
+D:\fidility19_09\SubjectClient\obj\Debug\SubjectClient.pdb
+D:\fidility19_09\SubjectClient\bin\Debug\SubjectLib.dll
+D:\fidility19_09\SubjectClient\bin\Debug\SubjectLib.pdb
+D:\fidility19_09\SubjectClient\obj\Debug\SubjectClient.csproj.CopyComplete

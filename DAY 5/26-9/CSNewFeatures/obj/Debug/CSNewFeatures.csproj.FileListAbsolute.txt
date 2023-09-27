@@ -1,0 +1,7 @@
+D:\fidility19_09\CSNewFeatures\obj\Debug\CSNewFeatures.csproj.AssemblyReference.cache
+D:\fidility19_09\CSNewFeatures\obj\Debug\CSNewFeatures.csproj.CoreCompileInputs.cache
+D:\fidility19_09\CSNewFeatures\bin\Debug\CSNewFeatures.exe.config
+D:\fidility19_09\CSNewFeatures\bin\Debug\CSNewFeatures.exe
+D:\fidility19_09\CSNewFeatures\bin\Debug\CSNewFeatures.pdb
+D:\fidility19_09\CSNewFeatures\obj\Debug\CSNewFeatures.exe
+D:\fidility19_09\CSNewFeatures\obj\Debug\CSNewFeatures.pdb

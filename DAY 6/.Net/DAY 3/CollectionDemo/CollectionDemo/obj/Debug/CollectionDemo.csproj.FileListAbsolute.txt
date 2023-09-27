@@ -1,0 +1,7 @@
+D:\fidility19_09\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+D:\fidility19_09\CollectionDemo\bin\Debug\CollectionDemo.exe
+D:\fidility19_09\CollectionDemo\bin\Debug\CollectionDemo.pdb
+D:\fidility19_09\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+D:\fidility19_09\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\fidility19_09\CollectionDemo\obj\Debug\CollectionDemo.exe
+D:\fidility19_09\CollectionDemo\obj\Debug\CollectionDemo.pdb

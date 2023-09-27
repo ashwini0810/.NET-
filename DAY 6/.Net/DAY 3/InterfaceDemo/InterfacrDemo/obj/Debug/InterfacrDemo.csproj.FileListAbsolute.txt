@@ -1,0 +1,8 @@
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\bin\Debug\InterfacrDemo.exe.config
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\bin\Debug\InterfacrDemo.exe
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\bin\Debug\InterfacrDemo.pdb
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\obj\Debug\InterfacrDemo.csproj.AssemblyReference.cache
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\obj\Debug\InterfacrDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\obj\Debug\InterfacrDemo.csproj.CoreCompileInputs.cache
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\obj\Debug\InterfacrDemo.exe
+C:\Users\dhuma\Downloads\InterfacrDemo-20230927T141136Z-001\InterfacrDemo\obj\Debug\InterfacrDemo.pdb

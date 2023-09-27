@@ -1,0 +1,14 @@
+1.partial class
+1a.Auto prop proc
+2.Object initilization
+3.Collection initilization
+4.implicity typed local variable
+5.Anynmous types
+6.Anynmous method
+7.lambda expression(arrow function)
+8.Action<T> delegate
+9.Func<Tout>delegate
+10.Extension methods
+11.Null check operator obj?.DOB()
+12.System.Nullable<T>
+13.dynamic datatype

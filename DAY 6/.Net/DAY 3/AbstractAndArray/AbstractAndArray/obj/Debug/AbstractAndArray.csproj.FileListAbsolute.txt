@@ -1,0 +1,7 @@
+D:\fidility19_09\AbstractAndArray\bin\Debug\AbstractAndArray.exe.config
+D:\fidility19_09\AbstractAndArray\bin\Debug\AbstractAndArray.exe
+D:\fidility19_09\AbstractAndArray\bin\Debug\AbstractAndArray.pdb
+D:\fidility19_09\AbstractAndArray\obj\Debug\AbstractAndArray.csproj.AssemblyReference.cache
+D:\fidility19_09\AbstractAndArray\obj\Debug\AbstractAndArray.csproj.CoreCompileInputs.cache
+D:\fidility19_09\AbstractAndArray\obj\Debug\AbstractAndArray.exe
+D:\fidility19_09\AbstractAndArray\obj\Debug\AbstractAndArray.pdb
