@@ -38,7 +38,7 @@ namespace SubjectClient
                 lab.InternalMarks = 30;
 
                 subjects.Add(lab);
-
+                 
                 foreach (var item in subjects.GetAllSubjects())
                 {
                     Console.WriteLine(item.Name);
